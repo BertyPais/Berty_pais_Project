@@ -5,7 +5,7 @@ class Git
 	{
 		Scanner s=new Scanner(System.in);
 		System.out.println("Enter the number : ");
-		int n=nextInt();
+		
 		System.out.println(n);
 	}
 }
